@@ -6,3 +6,4 @@
 credentials.h
 snifferconfig.py
 __pycache__
+log.csv
